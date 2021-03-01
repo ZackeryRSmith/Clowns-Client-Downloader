@@ -19,9 +19,7 @@ config.txt is setup in this manner.
 ```bash
 \. - Line one | Where the download gets stored
 <link> - Line two | Download link (must be pure download!)
-<type> - Line three | few websites are officially supported 
-.bat - Line four | all exts are supported but some downloads dont support them
-False - Line five | Experimental leave False for the meantime 
+<ext> - Line four | all exts are supported but some downloads dont support them 
 ```
 More info on dir > [Info](https://pastebin.com/raw/93y0CWUe)                                              
 More info on type > [Info](https://pastebin.com/raw/R1XXJiUq)
