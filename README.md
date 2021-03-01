@@ -9,7 +9,10 @@ There are two main ways to get Clowns Client Downloader you can download it from
 ```bash
 wget https://github.com/WillsCHEATTT/Clowns-Client-Downloader/archive/main.zip
 ```
-
+or
+```bash
+git clone https://github.com/WillsCHEATTT/Clowns-Client-Downloader/archive/main.zip
+```
 ## How To Configure Config.txt
 
 config.txt is setup in this manner.
