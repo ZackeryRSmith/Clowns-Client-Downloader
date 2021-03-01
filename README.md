@@ -13,8 +13,8 @@ wget https://github.com/WillsCHEATTT/Clowns-Client-Downloader/archive/main.zip
 ## How To Configure Config.txt
 
 config.txt is setup in this manner.
-More info on 
-More info on type > [Type](https://pastebin.com/raw/R1XXJiUq)
+More info on dir > [Info](https://pastebin.com/raw/93y0CWUe)
+More info on type > [Info](https://pastebin.com/raw/R1XXJiUq)
 ```bash
 \. - Line one | Where the download gets stored
 <link> - Line two | Download link (must be pure download!)
