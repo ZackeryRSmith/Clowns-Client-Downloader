@@ -21,6 +21,8 @@ More info on type > [Type](https://pip.pypa.io/en/stable/)
 .bat - Line four | all exts are supported but some downloads dont
 False - Line five | Experimental leave False for the meantime 
 ```
+## How It Works
+Blank for now
 
 ## Contributing
 Pull requests are welcome. For major changes, I would pefer you contact me on discord Clown#0420 first to discuss what you would like to change.
