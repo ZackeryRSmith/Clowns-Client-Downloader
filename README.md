@@ -4,16 +4,17 @@ Clowns Client Downloader is a program that auto-updates batch, Python, or javasc
 
 ## Installation
 
-There are two main ways to get Clowns Client Downloader you can download it from [Github](https://pip.pypa.io/en/stable/) or you can use wget.
+There are two main ways to get Clowns Client Downloader you can download it from [Github](https://github.com/WillsCHEATTT/Clowns-Client-Downloader/archive/main.zip) or you can use wget.
 
 ```bash
-wget <link>
+wget https://github.com/WillsCHEATTT/Clowns-Client-Downloader/archive/main.zip
 ```
 
 ## How To Configure Config.txt
 
 config.txt is setup in this manner.
-More info on type > [Type](https://pip.pypa.io/en/stable/)
+More info on 
+More info on type > [Type](https://pastebin.com/raw/R1XXJiUq)
 ```bash
 \. - Line one | Where the download gets stored
 <link> - Line two | Download link (must be pure download!)
