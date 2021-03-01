@@ -1,6 +1,6 @@
 # Clowns Client Downloader
 
-Clowns Client Downloader is a program that auto-updates batch, Python, or javascript
+Clowns Client Downloader is a program that auto-updates batch, Python, or javascript files (Works with other files too)
 
 ## Installation
 
