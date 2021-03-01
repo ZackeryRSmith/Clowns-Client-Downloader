@@ -26,5 +26,9 @@ False - Line five | Experimental leave False for the meantime
 If you would like to contribute to this program please contact Clown#0420 on discord for the source code
 
 Please note that changes that do not improve the program will not be added to this repo. If you have not contacted me for the source code & permission to edit my tool, and instead decided un-obfusticate my tool. This license will go into effect
+
+## Small Things To Note
+Per the license you are able to distrubute my tool inside of your program (With proper credits). You are allowed to edit the program as long as you put my name and a link to this repo in your program
+
 ## License
 
