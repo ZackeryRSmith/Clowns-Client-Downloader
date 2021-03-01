@@ -17,12 +17,13 @@ git clone https://github.com/WillsCHEATTT/Clowns-Client-Downloader/archive/main.
 
 config.txt is setup in this manner.                                  
 ```bash
-\. - Line one | Where the download gets stored
+<dir> - Line one | Where the download gets stored
 <link> - Line two | Download link (must be pure download!)
-<ext> - Line four | all exts are supported but some downloads dont support them 
+<ext> - Line four | all exts are supported but some downloads dont support them
+<name>
 ```
 More info on dir > [Info](https://pastebin.com/raw/93y0CWUe)                                              
-More info on type > [Info](https://pastebin.com/raw/R1XXJiUq)
+More genrel info > [Info](https://pastebin.com/raw/R1XXJiUq)
 
 ## Contributing
 Pull requests are welcome. For major changes, I would pefer you contact me on discord Clown#0420 first to discuss what you would like to change.
