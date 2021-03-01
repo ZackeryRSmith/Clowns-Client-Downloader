@@ -15,9 +15,7 @@ git clone https://github.com/WillsCHEATTT/Clowns-Client-Downloader/archive/main.
 ```
 ## How To Configure Config.txt
 
-config.txt is setup in this manner.
-More info on dir > [Info](https://pastebin.com/raw/93y0CWUe)                                              
-More info on type > [Info](https://pastebin.com/raw/R1XXJiUq)
+config.txt is setup in this manner.                                  
 ```bash
 \. - Line one | Where the download gets stored
 <link> - Line two | Download link (must be pure download!)
@@ -25,6 +23,8 @@ More info on type > [Info](https://pastebin.com/raw/R1XXJiUq)
 .bat - Line four | all exts are supported but some downloads dont support them
 False - Line five | Experimental leave False for the meantime 
 ```
+More info on dir > [Info](https://pastebin.com/raw/93y0CWUe)                                              
+More info on type > [Info](https://pastebin.com/raw/R1XXJiUq)
 ## How It Works
 Blank for now
 
