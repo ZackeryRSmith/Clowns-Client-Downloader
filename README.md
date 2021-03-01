@@ -22,7 +22,7 @@ More info on type > [Info](https://pastebin.com/raw/R1XXJiUq)
 \. - Line one | Where the download gets stored
 <link> - Line two | Download link (must be pure download!)
 <type> - Line three | few websites are officially supported 
-.bat - Line four | all exts are supported but some downloads dont
+.bat - Line four | all exts are supported but some downloads dont support them
 False - Line five | Experimental leave False for the meantime 
 ```
 ## How It Works
