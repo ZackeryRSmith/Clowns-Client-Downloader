@@ -16,7 +16,7 @@ git clone https://github.com/WillsCHEATTT/Clowns-Client-Downloader/archive/main.
 ## How To Configure Config.txt
 
 config.txt is setup in this manner.
-More info on dir > [Info](https://pastebin.com/raw/93y0CWUe)
+More info on dir > [Info](https://pastebin.com/raw/93y0CWUe)                                              
 More info on type > [Info](https://pastebin.com/raw/R1XXJiUq)
 ```bash
 \. - Line one | Where the download gets stored
