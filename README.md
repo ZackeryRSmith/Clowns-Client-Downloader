@@ -25,8 +25,6 @@ False - Line five | Experimental leave False for the meantime
 ```
 More info on dir > [Info](https://pastebin.com/raw/93y0CWUe)                                              
 More info on type > [Info](https://pastebin.com/raw/R1XXJiUq)
-## How It Works
-Blank for now
 
 ## Contributing
 Pull requests are welcome. For major changes, I would pefer you contact me on discord Clown#0420 first to discuss what you would like to change.
