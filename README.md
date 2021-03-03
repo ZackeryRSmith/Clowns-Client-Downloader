@@ -9,11 +9,11 @@ NEXT UPDATE PLANS!! >> [Update Plans](https://gist.github.com/WillsCHEATTT/389f5
 There are two main ways to get Clowns Client Downloader you can download it from [Github](https://github.com/WillsCHEATTT/Clowns-Client-Downloader/archive/main.zip) or you can use wget.
 
 ```bash
-wget https://github.com/WillsCHEATTT/Clowns-Client-Downloader/archive/main.zip
+wget github.com/WillsCHEATTT/Clowns-Client-Downloader
 ```
 or
 ```bash
-git clone https://github.com/WillsCHEATTT/Clowns-Client-Downloader
+git clone github.com/WillsCHEATTT/Clowns-Client-Downloader
 ```
 ## How To Configure Config.txt
 
