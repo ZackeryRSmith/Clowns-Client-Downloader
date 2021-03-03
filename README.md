@@ -24,7 +24,7 @@ config.txt is setup in this manner.
 ```
 More info on dir > [Info](https://pastebin.com/raw/93y0CWUe)                                       
                                                                         More info on link > [Info](https://pastebin.com/raw/zVg8Z233)
-                                                                        More info on ext > [Info](https://pastebin.com/raw/iLvcQYab)
+                                                                                                                                     More info on ext > [Info](https://pastebin.com/raw/iLvcQYab)
                                                                         More general info > [Info](https://pastebin.com/raw/R1XXJiUq)
 
 ## Contributing
