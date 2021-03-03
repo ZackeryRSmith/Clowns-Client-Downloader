@@ -11,7 +11,7 @@ wget https://github.com/WillsCHEATTT/Clowns-Client-Downloader/archive/main.zip
 ```
 or
 ```bash
-git clone https://github.com/WillsCHEATTT/Clowns-Client-Downloader/archive/main.zip
+git clone https://github.com/WillsCHEATTT/Clowns-Client-Downloader
 ```
 ## How To Configure Config.txt
 
