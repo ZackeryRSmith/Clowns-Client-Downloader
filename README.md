@@ -24,8 +24,8 @@ config.txt is setup in this manner.
 ```
 More info on dir > [Info](https://pastebin.com/raw/93y0CWUe)                                       
                                                                         More info on link > [Info](https://pastebin.com/raw/zVg8Z233)
-More info on ext > [Info](https://pastebin.com/raw/iLvcQYab)
-More general info > [Info](https://pastebin.com/raw/R1XXJiUq)
+                                                                        More info on ext > [Info](https://pastebin.com/raw/iLvcQYab)
+                                                                        More general info > [Info](https://pastebin.com/raw/R1XXJiUq)
 
 ## Contributing
 Pull requests are welcome. For major changes, I would pefer you contact me on discord Clown#0420 first to discuss what you would like to change.
