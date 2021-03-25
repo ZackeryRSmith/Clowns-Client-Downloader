@@ -1,0 +1,6 @@
+.\ (You Should Just Keep It How It Is)
+<Liink> Ex : https://pastebin.com/raw/iufgousyg
+<ext> Ex : txt
+<File_Name> Ex : test
+<COMP__file> Ex : .\COMP\test.txt
+## Make sure there are no SPACES!! (No spaces in, after, or before the Dir, Link, Ext, and Name) -READ GITHUHB FOR HELP!-
