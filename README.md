@@ -37,7 +37,7 @@ More general info > [Info](https://pastebin.com/raw/R1XXJiUq)
 
 
 ## Contributing
-Pull requests are welcome. For major changes, I would pefer you contact me on discord Clown#0420 first to discuss what you would like to change.
+Pull requests are welcome. For major changes, I would pefer you contact me on discord Clown#8147 Or Email : zackery.smith@hsdgreenbush.org or zackeryrobertsmith@gmail.com first to discuss what you would like to change.
 
 Please make sure to updates made to the program are appropriate.
 
