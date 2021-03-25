@@ -23,6 +23,7 @@ config.txt is setup in this manner.
 <link> - Line two | Download link (must be pure download!)
 <ext> - Line three | All exts are supported but some downloads dont support them
 <file_name> - Line four | This will be the name of the file when downloaded
+<COMP_file> - Line five | This is the dir where the compare file is stored (More Info On My Yt Video)
 ```
 More info on dir > [Info](https://pastebin.com/raw/93y0CWUe)                                       
 
