@@ -1,6 +1,6 @@
 rem Project Made By Zackery Robert Smith
 rem Github : https://github.com/WillsCHEATTT/Clowns-Client-Downloader
-rem Gmail : ZackeryRobertSmith@gmail.com or zackery.smith@hsdgreenbush.org
+rem Gmail : ZackeryRobertSmith@gmail.com
 rem Discord : Clown#8147
 
 
